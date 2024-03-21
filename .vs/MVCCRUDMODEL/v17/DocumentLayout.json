@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|c:\\users\\balas\\source\\repos\\mvccrudmodel\\mvccrudmodel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|solutionrelative:mvccrudmodel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|c:\\users\\balas\\source\\repos\\mvccrudmodel\\mvccrudmodel\\views\\employee\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|solutionrelative:mvccrudmodel\\views\\employee\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|c:\\users\\balas\\source\\repos\\mvccrudmodel\\mvccrudmodel\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|solutionrelative:mvccrudmodel\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|c:\\users\\balas\\source\\repos\\mvccrudmodel\\mvccrudmodel\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|solutionrelative:mvccrudmodel\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|c:\\users\\balas\\source\\repos\\mvccrudmodel\\mvccrudmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|solutionrelative:mvccrudmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|c:\\users\\balas\\source\\repos\\mvccrudmodel\\mvccrudmodel\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|solutionrelative:mvccrudmodel\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|c:\\users\\balas\\source\\repos\\mvccrudmodel\\mvccrudmodel\\models\\updatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|solutionrelative:mvccrudmodel\\models\\updatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|c:\\users\\balas\\source\\repos\\mvccrudmodel\\mvccrudmodel\\models\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|solutionrelative:mvccrudmodel\\models\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|c:\\users\\balas\\source\\repos\\mvccrudmodel\\mvccrudmodel\\models\\addemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|solutionrelative:mvccrudmodel\\models\\addemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|c:\\users\\balas\\source\\repos\\mvccrudmodel\\mvccrudmodel\\data\\mvcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|solutionrelative:mvccrudmodel\\data\\mvcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|c:\\users\\balas\\source\\repos\\mvccrudmodel\\mvccrudmodel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54802398-F1FF-4081-B7D8-89B8AF09E0CA}|MVCCRUDMODEL\\MVCCRUDMODEL.csproj|solutionrelative:mvccrudmodel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Models\\UpdateModel.cs",
+              "RelativeDocumentMoniker": "MVCCRUDMODEL\\Models\\UpdateModel.cs",
+              "ToolTip": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Models\\UpdateModel.cs",
+              "RelativeToolTip": "MVCCRUDMODEL\\Models\\UpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:24:33.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Views\\Employee\\View.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUDMODEL\\Views\\Employee\\View.cshtml",
+              "ToolTip": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Views\\Employee\\View.cshtml",
+              "RelativeToolTip": "MVCCRUDMODEL\\Views\\Employee\\View.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T10:17:59.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUDMODEL\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "MVCCRUDMODEL\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T09:10:36.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUDMODEL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCCRUDMODEL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T08:42:52.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddEmployees.cs",
+              "DocumentMoniker": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Models\\AddEmployees.cs",
+              "RelativeDocumentMoniker": "MVCCRUDMODEL\\Models\\AddEmployees.cs",
+              "ToolTip": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Models\\AddEmployees.cs",
+              "RelativeToolTip": "MVCCRUDMODEL\\Models\\AddEmployees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:38:18.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Views\\Employee\\Add.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUDMODEL\\Views\\Employee\\Add.cshtml",
+              "ToolTip": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Views\\Employee\\Add.cshtml",
+              "RelativeToolTip": "MVCCRUDMODEL\\Views\\Employee\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T08:35:39.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MVCCRUDMODEL\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MVCCRUDMODEL\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAswFYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:34:37.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCCRUDMODEL\\appsettings.json",
+              "ToolTip": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\appsettings.json",
+              "RelativeToolTip": "MVCCRUDMODEL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T08:29:56.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Program.cs",
+              "RelativeDocumentMoniker": "MVCCRUDMODEL\\Program.cs",
+              "ToolTip": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Program.cs",
+              "RelativeToolTip": "MVCCRUDMODEL\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:27:20.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Models\\Domain\\Employee.cs",
+              "RelativeDocumentMoniker": "MVCCRUDMODEL\\Models\\Domain\\Employee.cs",
+              "ToolTip": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Models\\Domain\\Employee.cs",
+              "RelativeToolTip": "MVCCRUDMODEL\\Models\\Domain\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:22:46.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MvcDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Data\\MvcDbContext.cs",
+              "RelativeDocumentMoniker": "MVCCRUDMODEL\\Data\\MvcDbContext.cs",
+              "ToolTip": "C:\\Users\\balas\\source\\repos\\MVCCRUDMODEL\\MVCCRUDMODEL\\Data\\MvcDbContext.cs",
+              "RelativeToolTip": "MVCCRUDMODEL\\Data\\MvcDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:20:36.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

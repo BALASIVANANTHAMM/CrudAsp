@@ -1,0 +1,32 @@
+﻿@model List<MVCCRUDMODEL.Models.Domain.Employee>
+@{
+	ViewData["Title"] = "List Of Data";
+}
+
+<h1>Employees</h1>
+<table class="table">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Name</th>
+			<th>Email</th>
+			<th>Salary</th>
+			<th>Date Of Birth</th>
+			<th>Department</th>
+			<th> </th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(var e in Model){
+			<tr>
+				<td>@e.Id</td>
+				<td>@e.Name</td>
+				<td>@e.Email</td>
+				<td>@e.Salary</td>
+				<td>@e.DateOfBirth.ToString("dd-MM-yyyy")</td>
+				<td>@e.Department</td>
+				<td><a href="Employee/View/@e.Id" class="btn btn-outline-primary">View</a></td>
+			</tr>
+		}
+	</tbody>
+</table>
